@@ -1,0 +1,13 @@
+PassengerId	= ID do cliente
+Pclass = Classe do cliente vai de 1 a 3 sendo 1 alto e 3 baixo
+Name = Nome do cliente
+Sex = Sexo do cliente
+Age	= Idade em anos
+SibSp = Número de irmãoes ou cojugues abordo do navio
+Parch = Número de pais ou filhos abordo do navio
+Ticket = Bilhete
+Fare = Tarifa paga do passageiro
+Cabin = Cabine onde está hospedado
+Embarked = Porto de embarque
+
+tipo_pessoa = Bebe = 0, criança = 1, adolecente = 2, adulto = 3, idoso = 4
