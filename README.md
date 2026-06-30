@@ -1,6 +1,7 @@
 # 📘 Titanic Machine Learning from Disaster Kaggle
+### **Pontuação:** 0.77751
 
-Este repositório corresponde à minha resolução para o desafio do Titanic - Machine Learning from Disaster no Kaggle, contém o desenvolvimento de modelo simples de Random Forest Classifier com SKlearn e enegenharia de feature para extrair a melhor pontuação.
+Este repositório corresponde à minha resolução para o desafio do [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview) no Kaggle, contém o desenvolvimento de modelo simples de Random Forest Classifier com SKlearn e enegenharia de feature para extrair a melhor pontuação.
 ---
 
 ## 📌 Sobre o Projeto
